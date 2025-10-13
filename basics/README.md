@@ -1,1 +1,1 @@
-- 2-bring_me_home: Changes the working directory to the user's home directory using cd.
+- 3-listfiles: Displays current directory contents in long format using ls -l.

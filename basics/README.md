@@ -1,1 +1,1 @@
-- 1-listit: Displays the contents list of the current directory using ls.
+- 2-bring_me_home: Changes the working directory to the user's home directory using cd.

@@ -1,1 +1,1 @@
-- 12-file_type: Prints the type of the file /tmp/iamafile using the file command.
+- 13-symbolic_link: Creates a symbolic link __ls__ to /bin/ls in the current directory using ln -s.

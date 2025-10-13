@@ -1,1 +1,1 @@
-0-current_working_directory: prints the absolute paath of the current working directory
+- 1-listit: Displays the contents list of the current directory using ls.

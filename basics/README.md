@@ -1,1 +1,1 @@
-- 3-listfiles: Displays current directory contents in long format using ls -l.
+- 4-listmorefiles: Displays current directory contents including hidden files in long format using ls -la.

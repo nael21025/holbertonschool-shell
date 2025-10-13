@@ -1,1 +1,1 @@
-- 8-firstdelete: Deletes the file betty from /tmp/my_first_directory using rm.
+- 9-firstdirdeletion: Deletes the directory my_first_directory from /tmp using rmdir.

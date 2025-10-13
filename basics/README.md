@@ -1,1 +1,1 @@
-- 14-copy_html: Copies all .html files from current dir to parent dir, only if newer or non-existent, using cp -u *.html ..
+- 15-lets_move: Moves all files starting with an uppercase letter to /tmp/u using mv [A-Z]* /tmp/u.

@@ -1,1 +1,1 @@
-- 15-lets_move: Moves all files starting with an uppercase letter to /tmp/u using mv [A-Z]* /tmp/u.
+- 16-clean_emacs: Deletes all files ending with ~ in the current directory using rm *~.

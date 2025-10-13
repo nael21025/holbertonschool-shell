@@ -1,1 +1,1 @@
-- 4-listmorefiles: Displays current directory contents including hidden files in long format using ls -la.
+- 5-listfilesdigitonly: Displays current directory contents including hidden files in long format with numeric user/group IDs using ls -lan.

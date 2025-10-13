@@ -1,1 +1,1 @@
-- 11-lists: Lists all files (including hidden) in long format for current dir, parent dir, and /boot using ls -la . .. /boot.
+- 12-file_type: Prints the type of the file /tmp/iamafile using the file command.

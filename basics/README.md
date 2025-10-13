@@ -1,1 +1,1 @@
-- 7-movethatfile: Moves the file betty from /tmp/ to /tmp/my_first_directory using mv.
+- 8-firstdelete: Deletes the file betty from /tmp/my_first_directory using rm.

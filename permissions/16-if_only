@@ -1,4 +1,2 @@
-#!/bin/bash
-if [ "$(stat -c %U hello)" = "guillaume"
-then sudo chown vincent hello
-fi
+echo '#!/bin/bash' > 16-if_only
+echo '[ "$(stat -c %U hello)" = "guillaume"' >> 16-if_only

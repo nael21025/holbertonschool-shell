@@ -1,2 +1,2 @@
-echo '#!/bin/bash' > 16-if_only
-echo '[ "$(stat -c %U hello)" = "guillaume"' >> 16-if_only
+#!/bin/bash
+[ "$(stat -c %U hello)" = "guillaume"
